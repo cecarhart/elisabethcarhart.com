@@ -1,0 +1,16 @@
+h1 {
+	color: black;
+}
+
+#title {
+	color: #3293a8;
+}
+
+#title:before {
+	color: yellow;
+}
+
+h2 {
+	color: #d1798e;
+}
+
